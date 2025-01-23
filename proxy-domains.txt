@@ -40,7 +40,11 @@ azurefd.net
 intercomcdn.com
 intercom.io
 identrust.com
-challenges.cloudflare.com
+livekit.cloud
+sora.com
+openai.com.cdn.cloudflare.net
+openaicom.imgix.net
+browser-intake-datadoghq.com
 ai.com
 oaistatic.com
 oaiusercontent.com
