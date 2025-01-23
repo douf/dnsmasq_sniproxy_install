@@ -6,7 +6,7 @@
 
 * 用途：让访问流媒体受限的VPS突破限制，前提是要有一个能流媒体的VPS。
 
-* 特性：脚本默认解锁`Netflix Hulu HBO`[等](https://github.com/myxuchangbin/dnsmasq_sniproxy_install/blob/master/proxy-domains.txt)，如需增删流媒体域名请编辑文件`/etc/dnsmasq.d/custom_netflix.conf`和`/etc/sniproxy.conf`
+* 特性：脚本默认解锁`Netflix Hulu HBO`[等](https://github.com/douf/dnsmasq_sniproxy_install/blob/master/proxy-domains.txt)，如需增删流媒体域名请编辑文件`/etc/dnsmasq.d/custom_netflix.conf`和`/etc/sniproxy.conf`
 
 * 脚本支持系统：CentOS7+, Debian9+, Ubuntu18+
     * 如果脚本最后显示的IP和实际公网IP不符，请修改一下文件`/etc/sniproxy.conf`中的IP地址
